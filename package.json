@@ -1,0 +1,23 @@
+{
+  "name": "beepbep",
+  "version": "1.0.0",
+  "description": "encrypt and decrypt data",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/glitchgirl/beepbep.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/glitchgirl/beepbep/issues"
+  },
+  "homepage": "https://github.com/glitchgirl/beepbep#readme",
+  "dependencies": {
+    "crypto": "^1.0.1"
+  }
+}
